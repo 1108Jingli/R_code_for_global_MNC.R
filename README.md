@@ -1,4 +1,4 @@
-These files include the code used for statistical analyses of the article titled "Global patterns and drivers of soil microbial necromass in agricultural and natural ecosystems". 
+These files include the code used for statistical analyses of the article titled "Soil microbial necromass shapes carbon stocks across the globe". 
 
 The specific description of the code are as follows: 
 The unites of variables are Latitude (°N), Longitude (°E), Elevation (m), MAT (℃), MAP (mm), Soil depth (cm), Horizon in this study (cm), Glucosamine (mg/kg soil), Muramic acid (mg/kg soil), GluC (mg/kg soil), MurC (mg/kg soil), GluC (mg/g SOC), MurC (mg/g SOC), Mcrobial necromass C (g/kg soil), Fungal necromass C (g/kg soil), Bacterial necromass C (g/kg soil), F-necromass-C/total-microbial-necromass-C (%), B-necromass-C/total-microbial-necromass-C (%), Microbial necromass C/SOC (%), F-necromass-C/SOC (%), B-necromass-C/SOC (%), Clay (%), Silt (%), Sand (%), SOC (g/kg soil), TN (g/kg soil), Soil MBC (mg/kg soil), Soil MBN (mg/kg soil), Soil Temperature_0_5cm (℃).
